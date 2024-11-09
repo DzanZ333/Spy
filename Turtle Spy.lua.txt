@@ -1,4 +1,4 @@
--- TurtleSpy V1.5.3, credits to Intrer#0421
+-- DzanZSpy V1.5.3, credits to DzanZ#0000
 
 local colorSettings =
 {
@@ -193,9 +193,9 @@ local RemoteButton2 = Instance.new("TextButton")
 local RemoteName2 = Instance.new("TextLabel")
 local RemoteIcon2 = Instance.new("ImageLabel")
 
-TurtleSpyGUI.Name = "TurtleSpyGUI"
+TurtleSpyGUI.Name = "DzanZSpyGUI"
 
-Parent(TurtleSpyGUI)
+Parent(DzanZSpyGUI)
 
 mainFrame.Name = "mainFrame"
 mainFrame.Parent = TurtleSpyGUI
